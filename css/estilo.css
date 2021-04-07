@@ -1,0 +1,29 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  text-align:center;
+  background-image: url('../img/fundo.png');
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+
+}
+
+.page-title {
+  color: #ce3a3a;
+  margin: 0 0 5px;
+}
+
+
+body > img {
+  margin: 0 10px;
+}
+
+.h2 {
+  color: #ce3a3a;
+}
